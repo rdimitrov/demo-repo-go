@@ -40,4 +40,3 @@ Branches:
    Provide your repository with a name, description, and set the privacy settings. Click "Create repository from template."
 
 Happy testing! 🦦🎉
-
